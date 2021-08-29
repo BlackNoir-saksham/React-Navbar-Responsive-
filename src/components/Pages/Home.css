@@ -1,0 +1,9 @@
+.background{
+    background-image:  url('../recepies/bg.png');
+    height: 100vh;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-size: cover; 
+    padding-top: 120px;
+    background-blend-mode: darken;
+}
